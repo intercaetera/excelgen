@@ -28,3 +28,4 @@ excelgen-*.tar
 /priv/static/
 
 sheets/*
+tags
